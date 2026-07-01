@@ -8,7 +8,7 @@ An LSTM-based sequential recommendation system that predicts which financial pro
 
 ## App Preview
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](assets/screenshot.png)
 
 ---
 
